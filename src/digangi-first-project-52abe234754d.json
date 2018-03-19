@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "digangi-first-project",
+  "private_key_id": "52abe234754d215a8d8cdc941edfb8bfa96b7c3a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCgHPcQBnez0XHG\nQK6CiNm0WkSX4k96PmUkngTKIRGQEkH2GE8hCzwG+tzGWHemYqn4ThUb348dHSaa\nNZnbogOOFa/7js2/bhl8sb3Ph8MdjMMU5euGID5l4km9oNDdWZUPXHB5xsgjGOuV\nbi4Yh5/a/VK5i/IndBqRdGzXR18czecIQWeH5RGlVy2SLBhHN7LoB3GbeMxWvCub\nx/euL/RWTnGGZUmLbebp6CSG/R6rO6a8wcdDHaCNMEuo/bzbOq3n8jiK5aGVZZUD\nL5ycK0/EwrPKvYsuoh7cQQo3oVRu68/oVRaVU8GD05rcL5yiLBzOrwj0STreA7iW\nFOhkc8KjAgMBAAECggEAHesLp2zt9SXP0rHHahDUTUUIyDC7lSYPlDYKwxJGy9r9\nhFSqhIwq3UsG8fEZ+nc5N3KvsxOlFFWcHvihFU9Cxsv6pFDc1UZncMttolfF98GT\nulX0Go3v2u3bxZlFLfdNSR+GzNp+D0Da1INQDblZ/3uSd6VUzFZ/mGpe5CMr/J+Z\nM39GooiY2yQEWIhku6mqCI9di/DqjM3mdB+N5xwURKLmjVE0I+Kac5syvKDI4KrG\nLq05DNZ5zP1sxE/ker/zZAMTLfV58utK+vhThYIHkv0FMmGbbOAzWoBjOaUjk8JM\nY+NE9PcvG0TDnpTlid4SE2cFPpbUp56JYBNf3HZ08QKBgQDSCO7NBQeTo544vOeW\nfmsUXJ0aUt9Z4rn6zqWIHaq+a4yElEdClkk6ul6eGXPe/OISe7LJUFHEovDzRfOn\nI00JO1i3EugLw/P7SDLc0U/z4qEflD6EkgQdmgISGBs0cOkW1o75nGbbxiq9CnZ6\nMwWNYJmLA6yJRHCcyrmripF1rQKBgQDDJzLzcbKRCRrCe5zIRi2KTdertiwwO45k\nxSYSm6RfKwlFCLMW8qkzr6YoUXM5trgXwbgTWoko0GItfumfwp9fcDeFYJBBUA8Z\naU5PM+RTSoRptH5RsRHlcNPGc+NVsuGmABh12scZnfh+wginX2WG1AjaGKoBR4+o\nziRX0loDjwKBgQCa2dcl9LVXVmRKtIuR2vabdoSlacAeBxjTHxPPvP+rkKNzA9dd\n8mtfDxS/P0i8eHk841I3Ni5y6Sb4VPSEn3QmgEiyARBvzDLParWFNBTcXJQqMiO9\nneHG6UrpiDhWe4B+RAX5ZiQ3mGzeHx6mjYNkbnoFkdndAkZ8csJdBLalqQKBgQCy\nMFiVcHtbcrS8X6IIPAvY/LqwTuaKI9cgq+LXmsW7H9CW+BqOGYPlbbyJk9ViHTR6\nfKdXBJO4cI00fW1UMqDSw+PuJP2SpUckLMMUDo2sf53n5qZwcP2mQh8cVTR+S5c9\nu1iaQ+kHuvXqx8CfErvhIDn06hBQmsbRm2gTyD3ogQKBgQCZRaJ+DnxVMCLqCtfZ\n5PE0wC/SDu5TBhoV3HwLk1DeooHiliAgB7jLyIzV+5zFc+sIWlCu6MjjdmFItpZw\nN+v1LWfPgo05fn4+gyT55V4tbxMHs/yUdIlvuvfASZva61FA1EV2uKoTpjgjyVME\nfH6XPkwsV+ScB4Scyq5MxCwPYA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-io@digangi-first-project.iam.gserviceaccount.com",
+  "client_id": "104145631242052664660",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-io%40digangi-first-project.iam.gserviceaccount.com"
+}
