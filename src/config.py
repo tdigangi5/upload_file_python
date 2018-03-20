@@ -5,4 +5,3 @@ PROJECT_ID = 'digangi-first-project'
 CLOUD_STORAGE_BUCKET = 'vision_upload_file'
 MAX_CONTENT_LENGTH = 8 * 1024 * 1024
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'gif'])
-GOOGLE_APPLICATION_CREDENTIALS = 'digangi-first-project-52abe234754d.json'
